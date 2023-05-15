@@ -35,7 +35,7 @@ Make sure you have the necessary tools installed on your Linux system. You can a
 1. Clone the repository:
 
 ```bash
-git Clone link
+git Clone https://github.com/theedamn/Wifi-Hacking-Script.git
 ```
 
 2. Ensure you have Figlet installed on your Linux system.
